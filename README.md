@@ -2,7 +2,7 @@
 
  Demo for a tutorial showing how to perform pathfinding and move a sprite accordingly with Phaser 3.
  
- The demo [can be found here](https://pathfinding-demo.herokuapp.com/).
+ The demo [can be found here](https://jerenaux.github.io/pathfinding_tutorial/).
  
  The tutorial is not online yet.
  
