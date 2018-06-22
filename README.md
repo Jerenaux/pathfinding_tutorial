@@ -4,7 +4,7 @@
  
  The demo [can be found here](https://jerenaux.github.io/pathfinding_tutorial/).
  
- The tutorial is not online yet.
+ The tutorial is available [here](http://www.dynetisgames.com/2018/03/06/pathfinding-easystar-phaser-3/).
  
  ## Running the demo ##
  
